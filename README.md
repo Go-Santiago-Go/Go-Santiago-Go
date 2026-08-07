@@ -4,7 +4,7 @@
 service reliability.**
 
 Lately I have been building AWS infrastructure in Go, Python, and Terraform for generative AI and
-machine learning workloads, and MLOps is where I am headed. I build the operational layer around ML
+machine learning workloads. I build the operational layer around GenAI
 systems and adopt changes on measured results rather than intuition.
 
 [christiansantiago.dev](https://christiansantiago.dev) ·
