@@ -12,6 +12,10 @@ systems and adopt changes on measured results rather than intuition.
 [LinkedIn](https://www.linkedin.com/in/christian-santiago-dev/) ·
 [santiagothedeveloper@gmail.com](mailto:santiagothedeveloper@gmail.com)
 
+🚧 Currently building **[grant-fit](https://github.com/Go-Santiago-Go/grant-fit)**: an autonomous tool-using agent on Amazon Bedrock and AWS Strands that researches federal grant eligibility, cites the span of text behind every verdict, and declines when the evidence is not there. Three reasoning architectures (chain-of-thought, ReAct, tree-of-thoughts) behind one interface, measured against each other on accuracy, latency, and cost.
+
+To stay up to date with applied AI and solve tangible industry problems, my current professional development includes building document intelligence pipelines in the [Pfizer Advanced AI-Powered Document Intelligence](https://www.extern.com/externships/pfizer-advanced-ai-powered-document-intelligence-externship-aug-2026) externship.
+
 ## Projects
 
 Each of these is deployed and verified end to end, provisioned entirely in Terraform, and shipped by
